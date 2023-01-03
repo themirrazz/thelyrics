@@ -12,3 +12,9 @@ They're sorted by artist first (due to songs from different artists but the same
 
 ## Where can I find other information on the songs?
 Also here. Not only does this show lyrics, but also metadata.
+
+## Does this show explicit lyrics?
+No.
+
+## What if I want to see explicit lyrics?
+If you want to see explicity lyrics and swearing, please find another lyrics site or clone the repo and change it yourself.
