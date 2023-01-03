@@ -6,3 +6,9 @@ Short version: the song itself. Long[er] version: I listen to the song and try t
 
 ## Where are the songs?
 In the [`songs`](/songs) folder.
+
+## How are songs sorted?
+They're sorted by artist first (due to songs from different artists but the same name) and then however GitHub sorts them.
+
+## Where can I find other information on the songs?
+Also here. Not only does this show lyrics, but also metadata.
